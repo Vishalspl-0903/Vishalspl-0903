@@ -12,10 +12,9 @@
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ieeexplore.ieee.org/author/YOUR-AUTHOR-ID"><img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></a>
-  <a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://www.linkedin.com/in/vishal-seshadri-b-b82074289/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vishalcrackit09@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
   <img src="https://komarev.com/ghpvc/?username=Vishalspl-0903&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 </div>
 
