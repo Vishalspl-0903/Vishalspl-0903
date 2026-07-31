@@ -132,16 +132,7 @@ class VishalSeshadri:
 
 <br />
 
-<!-- ============================ TROPHIES ============================ -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" /> &nbsp;GitHub Trophies
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Vishalspl-0903&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"
-    alt="GitHub trophies"
-  />
-</div>
 
 <br />
 
