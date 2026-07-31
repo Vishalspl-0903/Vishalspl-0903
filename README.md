@@ -109,63 +109,6 @@ class VishalSeshadri:
 
 <br/>
 
-<!-- ===================== PROJECTS ===================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 NeuroVision AI
-3D brain tumor segmentation with a 3D U-Net, multi-modal MRI inputs and uncertainty quantification. FastAPI inference backend with a React + TypeScript visualization frontend, containerized with Docker.
-
-`PyTorch` `3D U-Net` `FastAPI` `React` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 Perovskite Materials Prediction
-Bayesian ML platform for perovskite property prediction — stacked ensemble (RF + XGBoost → Bayesian Ridge) with an LLM reasoning layer for context-aware analysis and calibrated uncertainty.
-
-`Bayesian ML` `XGBoost` `LLM/RAG` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ Historical Image Restoration
-Super-resolution restoration of degraded historical documents using ESRGAN (RRDB) and WGAN-GP with perceptual, L1 and adversarial losses. Strong PSNR/SSIM on 256×256 outputs.
-
-`ESRGAN` `WGAN-GP` `PyTorch` `GANs`
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 Event Proposal Platform
-Responsive event-proposal system for Anokha Techfest with role-based submission, review and admin workflows. Firebase Auth + Firestore for secure, scalable access control.
-
-`Next.js` `Tailwind` `Firebase` `Firestore`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/Vishalspl-0903?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_all_28_repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ===================== PUBLICATION ===================== -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Publication
-
-> **Hand Gesture-Driven Speech Aid for Mute Individuals** — *IEEE Xplore, April 2025*
-> A real-time assistive communication system using an Arduino Mega, flex sensors and a KNN classifier to translate hand gestures into synthesized speech for individuals with vocal impairments.
-
-<br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;GitHub Analytics
@@ -212,8 +155,8 @@ Responsive event-proposal system for Anokha Techfest with role-based submission,
 
 I'm currently open to **AI/ML Engineering roles** and **research collaborations** in uncertainty-aware deep learning, OOD detection and applied ML for science.
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishal-seshadri-b-b82074289/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vishalcrackit09@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
