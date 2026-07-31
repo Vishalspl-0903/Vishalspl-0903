@@ -110,23 +110,7 @@ class VishalSeshadri:
 <br/>
 
 
-<!-- ===================== GITHUB STATS ===================== -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishalspl-0903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalspl-0903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Vishalspl-0903&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalspl-0903&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB" />
-</div>
-
-<br/>
 
 <!-- ===================== TROPHIES ===================== -->
 <div align="center">
